@@ -3,3 +3,4 @@ Como utilizar este repositório:
 2. Pratique os comandos com as atividades propostas
 Alteracao simulada do colega no readme.md
 Nota registrada no ramo dev1.
+Nota registrada no ramo dev2.
